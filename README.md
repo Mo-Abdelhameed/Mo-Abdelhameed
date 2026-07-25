@@ -1,16 +1,37 @@
-<h1 align="center">Hi 👋, I'm Mohamed Abdelhamid</h1>
-<h3 align="center">A passionate (Data scientist / ML developer)</h3>
+# Mohamed Abdelhamid
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17yVj47108ypTH_NcGwxUZFhp6Vt4lFyT/view?usp=sharing](https://drive.google.com/file/d/17yVj47108ypTH_NcGwxUZFhp6Vt4lFyT/view?usp=sharing)
+AI Engineer in Cairo, Egypt. I build LLM systems — agentic workflows, RAG pipelines, semantic search — along with the backend services and AWS infrastructure that keep them running in production.
 
+Three years at [Ready Tensor](https://app.readytensor.ai/users/mo.abdelhamid), an AI publication and certification platform.
 
+## What I work on
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+**Backend and infrastructure for AI products.** I owned the backend and cloud architecture for [Clyep](https://clyep.io/examples/), a platform that turns a PowerPoint or PDF into a fully narrated, animated explainer video. FastAPI services on ECS Fargate, long-running render jobs on AWS Batch, Aurora PostgreSQL for persistence, ElevenLabs for narration, everything provisioned as infrastructure as code with AWS CDK.
 
+**Agentic systems and retrieval.** Multi-agent evaluation pipelines, semantic search over pgvector, and a fair amount of time spent on the unglamorous part: figuring out when retrieval is quietly failing rather than when it obviously is. Benchmarked naive RAG, agentic RAG, and HyDE on a real evaluation workload.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mohamed-abdelhamid-2835961ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-abdelhamid-2835961ba" height="30" width="40" /></a>
-<a href="https://fb.com/moo30300" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="moo30300" height="30" width="40" /></a>
-</p>
+**Teaching what I build.** I authored and presented curriculum for two AI engineering certification programs used by 30,000+ learners.
+
+## Selected work
+
+- [rt-repo-assessment](https://github.com/readytensor/rt-repo-assessment) — LLM and rule-based tooling that assesses the quality of AI/ML project repositories
+- [Agentic AI Developer Certification](https://app.readytensor.ai/certifications/agentic-ai-cert-U7HxeL7a?tab=overview) — multi-agent workflows, LangGraph, RAG, MCP tool integration, evaluation, deployment
+- [LLM Engineering & Deployment Certification](https://app.readytensor.ai/certifications/llm-engineering-and-deployment-DAROCXlj) — SFT, LoRA/QLoRA, multi-GPU training, evaluation, quantization, deployment via vLLM, SageMaker, Bedrock
+- [Video lessons on YouTube](https://www.youtube.com/playlist?list=PLAa6-8PL-Wbwm9TLXBecaR7QwEt_TTUMA) — the LLM engineering and deployment series
+
+Most of the repositories here are open ML model implementations built during my time at Ready Tensor, spanning tabular classification and regression, time series forecasting, and text and image classification.
+
+## Papers
+
+- [Balancing the Scales: A Comprehensive Study on Tackling Class Imbalance](https://arxiv.org/abs/2409.19751) (2024) — SMOTE, class weighting, and threshold calibration across 9,000 experiments, 15 classifiers, 30 datasets
+- [What is Reproducibility in AI and ML Research?](https://arxiv.org/abs/2407.10239) (2024) — a framework distinguishing repeatability, reproducibility, and replicability
+
+## Tools
+
+Python · FastAPI · PyTorch · LangChain · LangGraph · Hugging Face · pgvector · PostgreSQL · Docker · AWS (CDK, ECS Fargate, Batch, Lambda, Bedrock, SageMaker, S3)
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/moo-abdelhamid) · mohamedabdelhamid3030@gmail.com
+
+Open to remote AI engineering roles.
